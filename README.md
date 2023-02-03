@@ -1,7 +1,13 @@
-### Hi there 👋
+
+🌱phmhp🌱
+
+:snowflake:
+
+contact: 노션 / 티스토리 / ?
+
 
 <!--
-**phmhp/phmhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**             ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
