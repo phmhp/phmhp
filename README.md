@@ -1,9 +1,7 @@
 
 🌱phmhp🌱
-
-:snowflake:
-
-📬contact: 
+🎓
+📬contact:
 🌱 I’m currently learning ...
 - 
 <!--
