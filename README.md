@@ -3,9 +3,9 @@
 
 :snowflake:
 
-contact: 노션 / 티스토리 / ?
-
-
+📬contact: 
+🌱 I’m currently learning ...
+- 
 <!--
 **             ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
