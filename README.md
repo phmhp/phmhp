@@ -1,9 +1,10 @@
+### ⓟⓗⓜⓗⓟ
+#### 🎓 ⓢⓜⓦⓤ 
+#### 🌱 I’m currently studying JAVA !
+#### 📬 [ⓣⓘⓢⓣⓞⓡⓨ](https://0-0-0-0-0-0-0-0-0-0.tistory.com/)
+#### 📬 [ⓖⓘⓣⓗⓤⓑ](https://github.com/phmhp)
+<!-- #### 📬 ⓝⓞⓣⓘⓞⓝ (준비 중) -->
 
-####🌱phmhp🌱
-#####🎓
-#####📬contact:
-#####🌱 I’m currently learning ...
-- 
 <!--
 **             ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
