@@ -1,10 +1,10 @@
-##  Hi!
-#### 🎓 I'm a student at SMWU.
+##  Hi! 
+
 
 📬 Contact ↓
-#### E-mail : phmhp00@gmail.com
-#### Blog : [Blog](https://0-0-0-0-0-0-0-0-0-0.tistory.com/)
-
+##### E-mail : phmhp00@gmail.com
+##### Blog : [Blog](https://0-0-0-0-0-0-0-0-0-0.tistory.com/)
+##### Notion : Notion Link is in preparation! Coming soon.... ✨
 <!--
 **             ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
