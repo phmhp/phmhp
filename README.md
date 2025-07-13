@@ -1,11 +1,11 @@
-<!--헤더-->
- <div class="header" align= "center">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34568B&text=Hyemin%20Park%20%20&height=150&fontSize=60&descAlignY=90&descAlign=100" alt="Hyemin Park">
- </div>
- 
-<div align= "center">
-<div style="margin-top: 10px;">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=34568B&width=520&height=45&lines=Embedded+Systems+Engineering;Committed+to+Doing+My+Very+Best+Every+Day" alt="Typing SVG" />
+<!-- 헤더 -->
+<!--<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34568B&text=Hyemin%20Park&height=150&fontSize=60&descAlignY=90&descAlign=100" alt="Hyemin Park" />
+  </div>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=10000&pause=700&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=Hyemin+Park)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=10000&pause=700&color=E4E4E4&background=000000&center=true&vCenter=true&width=1000&height=25&lines=⌨️Embedded+Systems+Engineering⌨️;Always+Doing+My+Best)](https://git.io/typing-svg)
+<div align= "left">
 </div>
 
 
