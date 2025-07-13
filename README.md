@@ -5,7 +5,7 @@
  
 <div align= "center">
 <div style="margin-top: 10px;">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=34568B&width=520&height=45&lines=Embedded+Systems+Engineering;Committed+to+Doing+My+Very+Best+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=34568B&width=520&height=45&lines=Embedded+Systems+Engineering;Committed+to+Doing+My+Very+Best+Every+Day" alt="Typing SVG" />
 </div>
 
 
