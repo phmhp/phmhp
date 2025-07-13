@@ -1,6 +1,6 @@
 <!--헤더-->
  <div class="header" align= "center">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34568B&text=Hyemin%20Park%20%20&height=150&fontSize=100&descAlignY=90&descAlign=100" alt="Hyemin Park">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=34568B&text=Hyemin%20Park%20%20&height=150&fontSize=60&descAlignY=90&descAlign=100" alt="Hyemin Park">
  </div>
  
 <div align= "center">
