@@ -8,26 +8,6 @@
 <div align= "left">
 </div>
 
-
- 
-<!-- 방문 수    
-<div align= "center">
-<a href="https://hits.sh/github.com/phmhp/"><img alt="Hits" src="https://hits.sh/github.com/phmhp.svg?style=for-the-badge&color=B0C4DE"/></a>&nbsp;
-</div>
--->
-
-<!--solved.ac 등급
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=phm6318)](https://solved.ac/phm6318)-->
-<!--solved.ac 잔디
- <img src="http://mazandi.herokuapp.com/api?handle=phm6318&theme=dark"/>-->
- <!--Top Languages card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phmhp)](https://github.com/phmhp/github-readme-stats)
--->
-<!--Github stats 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phmhp)](https://github.com/phmhp/github-readme-stats)
--->
-
 <!--교육-->
 ### 🎓 Education
 ###### 숙명여자대학교 IT공학전공 (졸업예정)
@@ -35,8 +15,26 @@
 
 <!--기술 스택-->
 ### 🛠️ Skills
+##### Programming Language
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
+
+##### Tool
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+
+##### Platform / Framework
+![ROS](https://img.shields.io/badge/ROS-%2322314E?style=for-the-badge&logo=ros&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-%23000000?style=for-the-badge&logo=opencv&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-%23000000?style=for-the-badge&logo=SLAM&logoColor=white)
+![MatLab](https://img.shields.io/badge/MatLab-%23000000?style=for-the-badge&logo=MatLab&logoColor=white)
+
+##### Embedded 
+![AutoSAR](https://img.shields.io/badge/AutoSAR-%23000000?style=for-the-badge&logo=AutoSAR&logoColor=white)
+
+
 
 </br>
 <!--velog 포스팅-->
