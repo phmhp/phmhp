@@ -27,12 +27,12 @@
 
 ##### Platform / Framework
 ![ROS](https://img.shields.io/badge/ROS-%2322314E?style=for-the-badge&logo=ros&logoColor=white)
-![opencv](https://img.shields.io/badge/opencv-%23000000?style=for-the-badge&logo=opencv&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-%23000000?style=for-the-badge&logo=SLAM&logoColor=white)
-![MatLab](https://img.shields.io/badge/MatLab-%23000000?style=for-the-badge&logo=MatLab&logoColor=white)
+<!--![opencv](https://img.shields.io/badge/opencv-%23000000?style=for-the-badge&logo=opencv&logoColor=white)-->
+![SLAM](https://img.shields.io/badge/SLAM-%23000000?style=for-the-badge&logo=SLAM&logoColor=white)-->
+<!--![MatLab](https://img.shields.io/badge/MatLab-%23000000?style=for-the-badge&logo=MatLab&logoColor=white)-->
 
 ##### Embedded 
-![AutoSAR](https://img.shields.io/badge/AutoSAR-%23000000?style=for-the-badge&logo=AutoSAR&logoColor=white)
+<!--![AutoSAR](https://img.shields.io/badge/AutoSAR-%23000000?style=for-the-badge&logo=AutoSAR&logoColor=white)-->
 
 
 
